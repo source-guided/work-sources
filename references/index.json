@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "entry",
+      "label": "원천 진입 안내",
+      "description": "원천 진입 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../AGENTS.md",
+      "topics": [
+        "entry"
+      ]
+    },
+    {
+      "id": "source-info",
+      "label": "원천 정보",
+      "description": "원천 정보",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../source.json",
+      "topics": [
+        "source-info"
+      ]
+    },
+    {
+      "id": "context",
+      "label": "context 내부 스킬",
+      "description": "context 내부 스킬",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/context/SKILL.md",
+      "topics": [
+        "context"
+      ]
+    },
+    {
+      "id": "context-workflow",
+      "label": "context-workflow",
+      "description": "context-workflow",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/context/sources/workflow.md",
+      "topics": [
+        "work",
+        "context",
+        "workflow"
+      ]
+    },
+    {
+      "id": "context-work-record",
+      "label": "work-record.md",
+      "description": "work-record.md",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/context/assets/work-record.md",
+      "topics": [
+        "context-work-record"
+      ]
+    },
+    {
+      "id": "verification",
+      "label": "verification 내부 스킬",
+      "description": "verification 내부 스킬",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/verification/SKILL.md",
+      "topics": [
+        "verification"
+      ]
+    },
+    {
+      "id": "evidence",
+      "label": "verification-evidence",
+      "description": "verification-evidence",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/verification/sources/evidence.md",
+      "topics": [
+        "work",
+        "verification",
+        "evidence"
+      ]
+    },
+    {
+      "id": "independent-review",
+      "label": "verification-independent-review",
+      "description": "verification-independent-review",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/verification/sources/independent-review.md",
+      "topics": [
+        "work",
+        "verification",
+        "independent-review"
+      ]
+    },
+    {
+      "id": "verification-workflow",
+      "label": "verification-workflow",
+      "description": "verification-workflow",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/verification/sources/workflow.md",
+      "topics": [
+        "work",
+        "verification",
+        "workflow"
+      ]
+    },
+    {
+      "id": "client-contract",
+      "label": "참조 체계 참여 계약",
+      "description": "원천 소유권과 내부 스킬 노출 경계",
+      "kind": "source",
+      "access": "web",
+      "locator": "https://raw.githubusercontent.com/source-guided/project-builder/main/plugins/project-builder/sources/source-contract.md",
+      "topics": [
+        "contract",
+        "reference"
+      ]
+    }
+  ]
+}

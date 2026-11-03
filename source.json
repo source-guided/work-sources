@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "id": "work",
+  "version": "1.0.0",
+  "role": "작업 관리·증거·독립 검토",
+  "exposure": "source-only",
+  "contract": "project-builder.source/v1",
+  "entry": "references/index.json",
+  "capabilities": [
+    "capabilities/context/SKILL.md",
+    "capabilities/verification/SKILL.md"
+  ]
+}
