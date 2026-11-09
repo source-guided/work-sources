@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "context",
+      "label": "작업 맥락 관리 스킬",
+      "description": "진행 중인 작업의 맥락 관리와 재개를 위한 진입 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/context/SKILL.md",
+      "topics": [
+        "context",
+        "작업",
+        "맥락"
+      ]
+    },
+    {
+      "id": "context-workflow",
+      "label": "작업 재개와 현재 맥락 유지",
+      "description": "기존 결정·검증 상태·남은 질문을 확인하며 작업을 이어가는 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/context/sources/workflow.md",
+      "topics": [
+        "work",
+        "context",
+        "workflow",
+        "작업 재개",
+        "resume",
+        "인수인계",
+        "handoff"
+      ]
+    },
+    {
+      "id": "context-work-record",
+      "label": "작업 기록 양식",
+      "description": "출처·결정·검증 상태와 다음 행동을 기록하는 선택적 양식",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/context/assets/work-record.md",
+      "topics": [
+        "context-work-record",
+        "작업 기록",
+        "양식",
+        "template"
+      ]
+    }
+  ]
+}

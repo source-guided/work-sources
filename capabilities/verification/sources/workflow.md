@@ -25,6 +25,6 @@ Record input/action, expected outcome, observed result, evidence location, and r
 
 Do not turn a documentation checklist into a passing test report. Tool failures are not product passes. If runtime checks cannot run, identify the minimum missing capability and finish independent static work. No screenshots or measurements may be invented.
 
-For a reusable-workflow evaluation, resolve `independent-review` through the [current project reference](../../../references/index.json). That source owns the independent review method and its relationship to the execution harness.
+For a reusable-workflow evaluation, resolve `independent-review` through the [current project reference](../../../references/verification/index.json). That source owns the independent review method and its relationship to the execution harness.
 
-Use [evidence and handoff — reference](../../../references/index.json) for a substantial final handoff. Keep final reporting compact for small edits. Report residual limitations without claiming external submission, deployment, or acceptance that was not observed and authorized.
+Use [evidence and handoff — reference](../../../references/verification/index.json) for a substantial final handoff. Keep final reporting compact for small edits. Report residual limitations without claiming external submission, deployment, or acceptance that was not observed and authorized.

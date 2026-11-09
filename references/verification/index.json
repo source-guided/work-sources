@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "verification",
+      "label": "결과 검증 스킬",
+      "description": "실제 요구사항과 관측 근거에 따라 결과를 검증하는 진입 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/verification/SKILL.md",
+      "topics": [
+        "verification",
+        "검증"
+      ]
+    },
+    {
+      "id": "evidence",
+      "label": "검증 증거와 인계",
+      "description": "정적 검사·실행·연동·배포 증거의 범위와 인계를 설명하는 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/verification/sources/evidence.md",
+      "topics": [
+        "work",
+        "verification",
+        "evidence",
+        "증거",
+        "인계"
+      ]
+    },
+    {
+      "id": "independent-review",
+      "label": "최초 결과의 독립 검토",
+      "description": "보존된 입력과 최초 산출물을 독립적으로 검토하는 방법",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/verification/sources/independent-review.md",
+      "topics": [
+        "work",
+        "verification",
+        "independent-review",
+        "독립 검토",
+        "independent review",
+        "평가"
+      ]
+    },
+    {
+      "id": "verification-workflow",
+      "label": "요구사항별 결과 검증",
+      "description": "입력·행동·기대 결과·관측 근거를 연결해 검증하는 흐름",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/verification/sources/workflow.md",
+      "topics": [
+        "work",
+        "verification",
+        "workflow",
+        "검증",
+        "회귀",
+        "테스트"
+      ]
+    }
+  ]
+}
