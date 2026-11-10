@@ -11,6 +11,7 @@
 ## Reference traversal
 - Consumer registry location:
 - Reference/source trace location:
+- Material questions and relevant source entry/workflow/supporting references actually read:
 - Relevant horizontal references still unresolved:
 
 ## UX direction
@@ -25,11 +26,11 @@
 | --- | --- | --- | --- | --- | --- |
 
 ## Product decisions
-| Decision | Task condition / source and limits | Alternatives / chosen tradeoff | Implementation location | Observable check |
+| Model choice (not a requirement) | Task condition / source and limits | Alternatives / chosen tradeoff | Implementation location | User outcome / counterexample to observe |
 | --- | --- | --- | --- | --- |
 
 ## Verification
-| Requirement | Input / action | Expected result | Observed result / evidence location | Revision | Status |
+| Requirement or model-choice hypothesis | Input / action | Expected user outcome and its source | Observed result / evidence location | Revision | Status |
 | --- | --- | --- | --- | --- | --- |
 
 ## Resume

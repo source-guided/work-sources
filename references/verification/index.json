@@ -31,7 +31,7 @@
     {
       "id": "independent-review",
       "label": "최초 결과의 독립 검토",
-      "description": "보존된 입력과 최초 산출물을 독립적으로 검토하는 방법",
+      "description": "보존한 입력에서 기대 결과를 도출하고 최초 산출물과 참조 선택을 독립 검토하는 안내",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/verification/sources/independent-review.md",
@@ -41,13 +41,14 @@
         "independent-review",
         "독립 검토",
         "independent review",
-        "평가"
+        "평가",
+        "참조 범위"
       ]
     },
     {
       "id": "verification-workflow",
       "label": "요구사항별 결과 검증",
-      "description": "입력·행동·기대 결과·관측 근거를 연결해 검증하는 흐름",
+      "description": "요구 결과·모델 선택·참조 범위와 실행 근거를 구분하여 검증하는 흐름",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/verification/sources/workflow.md",
@@ -57,7 +58,8 @@
         "workflow",
         "검증",
         "회귀",
-        "테스트"
+        "테스트",
+        "판단 검증"
       ]
     }
   ]
